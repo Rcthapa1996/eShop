@@ -2,6 +2,7 @@
   "name": "eshop",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rcthapa1996.github.io/eShop",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
